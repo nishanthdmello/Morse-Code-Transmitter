@@ -9,4 +9,5 @@ The device is built using an Arduino microcontroller board, an LCD screen, a pot
 ## Applications :
 The device is useful for a variety of applications, such as emergency signaling or for use in areas where speech communication is difficult.
 
-## Digram :
+## Diagram :
+<img src='Diagram.png' alt="diagram"></img>
