@@ -11,3 +11,7 @@ The device is useful for a variety of applications, such as emergency signaling 
 
 ## Diagram :
 <img src='Diagram.png' alt="diagram"></img>
+
+## circuit Diagram :
+<img src='Circuit.png' alt="circuit"></img>
+
