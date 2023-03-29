@@ -4,7 +4,7 @@ const int buz = 3;
 int len = 0;
 char ch;
 char new_char;
-int unit_delay = 150;
+int unit_delay = 250;
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
